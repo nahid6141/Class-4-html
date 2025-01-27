@@ -1,0 +1,6 @@
+this class 4 was just about how to creat a repository in github
+
+commnad git status ( not necessary )
+command 1 git add .
+command 2 git commit -m "commit massage"
+command 3 git push
